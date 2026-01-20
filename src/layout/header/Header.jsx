@@ -1,4 +1,4 @@
-import TopBar from "./TopBar";
+import TopBar from "./Topbar";
 import Navbar from "./Navbar";
 
 const Header = () => {
